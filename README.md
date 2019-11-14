@@ -17,7 +17,7 @@
 
 02 •  Service Heath Check with Consul [here](./consul/readme.md).
 
-03  • Using the Kubernetes Dashboard [here](./dashboard/readme.md).
+03  • Using the Kubernetes Dashboard [here](./k8s-dashboard/readme.md).
 
 04 •  Kubernetes Service Discovery [here](https://github.com/reselbob/innosoft/tree/master/microservices-architecture/04-service-discovery-k8s).
 
@@ -29,7 +29,7 @@
 
 08 • Working with Kubernetes Namespaces [here](./namespaces/readme.md).
 
-08 • Working the Role Based Access Control Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/rbac)
+09 • Working the Role Based Access Control Under Kubernetes [here](https://github.com/reselbob/k8sdemos/tree/master/rbac)
 
 ## Day 3
 
