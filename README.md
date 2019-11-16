@@ -45,4 +45,4 @@
    
    • A possible solution in a password protected  in a zip file [here](./payments/payments.zip).
 
-04 • Workshop: Adding an Ad Auction Service to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](
+04 • Workshop: Adding an Ad Auction Service to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](https://github.com/reselbob/fortune-cookies).
