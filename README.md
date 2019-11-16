@@ -37,6 +37,12 @@
 
 02 •  Deploying a Kubernetes MOA to AWS using Jenkins [here](jenkins-k8s-aws-deployment/readme.md),
 
-03 • Designing an Asychronous Microservice Oriented Architecture for Travel Agent
+03 • Workshop: Designing an Payment microservice for the existing Travel Agent MOA.
 
-04 • Adding an Service to an Existing MOA: Synchronous and Ansynchronous
+   • Monolith code is [here](https://github.com/reselbob/travelagent/tree/master/monolith).
+   
+   • Synchronous code is [here](https://github.com/reselbob/travelagent/tree/master/sync).
+   
+   • A possible solution in a password protected  in a zip file [here](./payments/payments.zip).
+
+04 • Workshop: Adding an Ad Auction Service to the existing Fortune Cookies MOA: Synchronous and Ansynchronous. Project code is [here](
