@@ -19,6 +19,14 @@ If you do not have a repository on Docker Hub, create one. During the creation p
 
 **Step 2:** Follow the instruction for setting up the first virtual machine as the Jenkins Server. They are [here](jenkins-provisioning.md).
 
+After the Jenkins Server is setup you'll access on the Internet at:
+
+`http://<AWS_DOMAIN_URL>:8080`
+
+**WHERE:**
+
+`AWS_DOMAIN_URL` is the domain name that AWS generates and binds to the running instance of EC2 virtual machine you dedicated to the Jenkins server,
+
 **Step 3:** Follow the directions for setting up the Kubernetes Cluster using `KubeAdm`. You will find the instructions [here](kubeadm.md).
 
 
