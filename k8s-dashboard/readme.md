@@ -4,6 +4,10 @@
 
 `https://katacoda.com/javajon/courses/kubernetes-fundamentals/minikube`
 
+and start minikube
+
+`minikube start -p myminikube`
+
 **Step 2:** Access the Kubernetes Dashboard that is part of the playground by clicking on the icon in the menu bar.
 
 ![Access K8S Dashboard 1](./images/create-dashboard-01.png)
