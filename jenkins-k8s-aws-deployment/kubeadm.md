@@ -147,7 +147,7 @@ Now we need to add worker nodes to the cluster.
 
 `watch kubectl get nodes`.
 
-If all is well you'll see the nodes and eventuall the nodes will enter a `Ready` state.
+If all is well you'll see the nodes and eventually the nodes will enter a `Ready` state.
 
 ```
 ubuntu@ip-172-31-83-141:~$ kubectl get nodes
