@@ -2,15 +2,15 @@
 
 In this exercise we're going to deploy a single microservice, [`pinger`](https://github.com/reselbob/pinger) to Kuberenetes cluster using Jenkins. The process involves the following steps:
 
-* Set up a repository on Docker Hub, if you don't have one already.
+* Set up a account on Docker Hub, if you don't have one already.
 * Provision 3 virtual machines on AWS EC2.
 * Provision 1 virtual machine as a Jenkins server.
 * Provision the remaining two as a Kubernetes cluster.
 * Configure a Jenkins pipleline job to execute the deployment.
 
-## Setting Up A Repository on Docker Hub
+## Setting Up A Account on Docker Hub
 
-If you do not have a repository on Docker Hub, create one. During the creation process you will create a `username` and `password` pair. Keep these values on hand. You'll need them when you configure the Jenkins pipeline to push a Docker image the script will create to Docker Hub.
+If you do not have a account on Docker Hub, create one. During the creation process you will create a `username` and `password` pair. Keep these values on hand. You'll need them when you configure the Jenkins pipeline to push a Docker image the script will create to Docker Hub.
 
 
 ## Creating the Deployment Environment
