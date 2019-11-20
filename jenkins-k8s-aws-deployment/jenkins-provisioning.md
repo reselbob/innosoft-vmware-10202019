@@ -15,15 +15,13 @@
 `sudo usermod -a -G docker $USER`
 
 
-**Step 2:** Clone the repository code
+**Step 3:** Clone the repository code
 
 `git clone https://github.com/reselbob/fatjenkins.git`
 
-**Step 3:** Go to the project's directory
+**Step 4:** Go to the project's directory
 
 `cd fatjenkins`
-
-
 
 
 ## Installation
