@@ -23,6 +23,9 @@
 
 `cd fatjenkins`
 
+**Step 5:** Exit the process and `ssh` back in.
+
+`ssh -i /path/to/your.pem ubuntu@<aws_dns_for_jenkins_server>`
 
 ## Installation
 
