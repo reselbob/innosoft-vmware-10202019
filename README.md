@@ -33,7 +33,7 @@
 
 ## Day 3
 
-01 •  Creating a Kubernetes Cluster Under AWS Using KubeAdm [here](jenkins-k8s-aws-deployment/kubeadmn.md).
+01 •  Creating a Kubernetes Cluster Under AWS Using KubeAdm [here](jenkins-k8s-aws-deployment/kubeadm.md).
 
 02 •  Deploying a Kubernetes MOA to AWS using Jenkins [here](jenkins-k8s-aws-deployment/readme.md),
 
