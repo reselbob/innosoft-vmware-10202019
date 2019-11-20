@@ -118,7 +118,7 @@ Now we need to add worker nodes to the cluster.
 
 `apt update`
 
-`apt install docker.io`
+`apt install docker.io -y`
 
 `systemctl enable docker`
 
