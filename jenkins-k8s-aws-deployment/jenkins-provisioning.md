@@ -4,6 +4,17 @@
 
 `ssh -i /path/to/your.pem ubuntu@<aws_dns_for_jenkins_server>`
 
+**Step 2:**: Install Docker
+
+`apt update`
+
+`apt install docker.io -y`
+
+`systemctl enable docker`
+
+`sudo usermod -a -G docker $USER`
+
+
 **Step 2:** Clone the repository code
 
 `git clone https://github.com/reselbob/fatjenkins.git`
@@ -11,6 +22,8 @@
 **Step 3:** Go to the project's directory
 
 `cd fatjenkins`
+
+
 
 
 ## Installation
